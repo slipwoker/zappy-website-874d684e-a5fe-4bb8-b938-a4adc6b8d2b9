@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://autonomit-x-systems-874d684e.zappy5.app/sitemap.xml
