@@ -1,57 +1,47 @@
-# Autonomit X Systems — Generative Engine Optimization Map
-
-> A תשתיות תקשורת וסייבר business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://autonomit-x-systems-874d684e.zappy5.app
+https://example.com
 גלו פתרונות Azure DevOps מתקדמים עם Autonomit X Systems. שירותי תשתיות תקשורת וסייבר מובילים לעסקים בינוניים וגדולים.
 
 ### שירותים
-https://autonomit-x-systems-874d684e.zappy5.app/services
+https://example.com/services
 שירותי Azure DevOps מקצועיים מותאמים לצרכים שלכם. פתרונות תשתיות תקשורת וסייבר לעסקים בינוניים וגדולים.
 
 ### אודות
-https://autonomit-x-systems-874d684e.zappy5.app/about
+https://example.com/about
 למדו על Autonomit X Systems - מובילים בתחום תשתיות תקשורת וסייבר. מומחים ב-Azure DevOps ופתרונות ענן לעסקים.
 
 ### צור קשר
-https://autonomit-x-systems-874d684e.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם Autonomit X Systems לפתרונות Azure DevOps מתקדמים. מומחים בתשתיות תקשורת וסייבר לעסקים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://autonomit-x-systems-874d684e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://autonomit-x-systems-874d684e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://autonomit-x-systems-874d684e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Autonomit X Systems
-Autonomit X Systems is a business in the תשתיות תקשורת וסייבר industry.
-
-## Target Audience
-עסקים בינוניים וגדולים
-
-## Industry
-תשתיות תקשורת וסייבר
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://autonomit-x-systems-874d684e.zappy5.app/sitemap.xml
-- **Robots.txt**: https://autonomit-x-systems-874d684e.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
